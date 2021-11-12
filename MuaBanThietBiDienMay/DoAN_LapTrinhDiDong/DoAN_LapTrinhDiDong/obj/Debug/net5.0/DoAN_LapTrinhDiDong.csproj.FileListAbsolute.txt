@@ -1,0 +1,315 @@
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.Development.json
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.json
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.exe
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.deps.json
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.json
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.dev.json
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.GeneratedMSBuildEditorConfig.editorconfig
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfoInputs.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CoreCompileInputs.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.Manifest.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.xml
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\scopedcss\bundle\DoAN_LapTrinhDiDong.styles.css
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CopyComplete
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.genruntimeconfig.cache
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Humanizer.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAN\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csprojAssemblyReference.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.Development.json
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.json
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.exe
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.deps.json
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.json
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.dev.json
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Humanizer.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csprojAssemblyReference.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.GeneratedMSBuildEditorConfig.editorconfig
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfoInputs.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CoreCompileInputs.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.Manifest.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.xml
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\scopedcss\bundle\DoAN_LapTrinhDiDong.styles.css
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CopyComplete
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.genruntimeconfig.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.Development.json
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.json
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.exe
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.deps.json
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.json
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.dev.json
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Humanizer.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csprojAssemblyReference.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.GeneratedMSBuildEditorConfig.editorconfig
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfoInputs.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CoreCompileInputs.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cs
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.Manifest.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.xml
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\scopedcss\bundle\DoAN_LapTrinhDiDong.styles.css
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cache
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CopyComplete
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\Lap trinh Android\DoAN\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.genruntimeconfig.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.Development.json
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.json
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.exe
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.deps.json
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.json
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.dev.json
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Humanizer.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csprojAssemblyReference.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.GeneratedMSBuildEditorConfig.editorconfig
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfoInputs.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CoreCompileInputs.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.Manifest.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.xml
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\scopedcss\bundle\DoAN_LapTrinhDiDong.styles.css
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cache
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CopyComplete
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\DoAnLapTrinhDiDong\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.genruntimeconfig.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.Development.json
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\appsettings.json
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.exe
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.deps.json
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.json
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.runtimeconfig.dev.json
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Humanizer.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csprojAssemblyReference.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.GeneratedMSBuildEditorConfig.editorconfig
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfoInputs.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.AssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CoreCompileInputs.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.MvcApplicationPartsAssemblyInfo.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.Manifest.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\staticwebassets\DoAN_LapTrinhDiDong.StaticWebAssets.xml
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\scopedcss\bundle\DoAN_LapTrinhDiDong.styles.css
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.csproj.CopyComplete
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\ref\DoAN_LapTrinhDiDong.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.genruntimeconfig.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.Views.dll
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\bin\Debug\net5.0\DoAN_LapTrinhDiDong.Views.pdb
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorAssemblyInfo.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorAssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.TagHelpers.input.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.TagHelpers.output.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorCoreGenerate.cache
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\Razor\View\Index.cshtml.g.cs
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.RazorTargetAssemblyInfo.cs
+E:\KBS\DoAnLapTrinhDiDong_2\DoAN_LapTrinhDiDong\DoAN_LapTrinhDiDong\obj\Debug\net5.0\DoAN_LapTrinhDiDong.Views.pdb

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<MVC_LapTrinhDiDong_WebServer.Models.Sanpham>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a href="@Url.Action("Add","SanPham")" class="btn btn-default"><i class="fa fa-plus"></i> Create new</a>
+</p>
+<table class="table table-striped table-bordered dt-responsive nowrap" width="1000px">
+    <tr>
+        <th width="50px">
+            Mã sản phẩm
+        </th>
+        <th width="150px">
+            Tên sản phẩm
+        </th>
+        <th width="20px">
+            Số lượng tồn
+        </th>
+        <th width="20px">
+            Đơn giá
+        </th>
+        <th width="420px">
+            Mô tả
+        </th>
+        <th width="10px">
+            Mã loại
+        </th>
+        <th width="10px">
+            Hình ảnh
+        </th>
+        <th>
+            Hoạt động
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td width="50px">
+                @Html.DisplayFor(modelItem => item.maSanPham)
+            </td>
+            <td width="150px">
+                @Html.DisplayFor(modelItem => item.tenSanPham)
+            </td>
+            <td width="20px">
+                @Html.DisplayFor(modelItem => item.soLuongTon)
+            </td>
+            <td width="20px">
+                @Html.DisplayFor(modelItem => item.giaTien)
+            </td>
+            <td width="420px">
+                @Html.DisplayFor(modelItem => item.moTa)
+            </td>
+            <td width="10px">
+                @Html.DisplayFor(modelItem => item.maLoai)
+            </td>
+            <td width="10px">
+                @Html.DisplayFor(modelItem => item.image)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit","SanPham",new { id=item.maSanPham })" class="btn btn-default"><i class="fa fa-pencil"></i> Edit</a> |
+                <a onclick="Delete(@item.maSanPham)" class="btn btn-default"><i class="fa fa-trash"></i> Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+
+        function Delete(id) {
+            alertify.confirm('Web Api CRUD Operations','Are You Sure to Delete this Record ?',function(){
+                window.location.href  = '@Url.Action("Delete","SanPham")/'+id;
+            },null );
+        }
+    </script>
+}

@@ -1,0 +1,7 @@
+Trong hình ChayProjectAPI.PNG ở bước 2
+Đổi tên ổ đĩa và đường dẫn đến file project API
+
+Lưu ý: Chạy project API trước khi chạy cái android
+
+DoAn_LapTrinhDiDng: project tạo API
+DoAn_LapTrinhDiDong_MuaBanDienMay: project androi studio
