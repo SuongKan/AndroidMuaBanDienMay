@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shadow_radius_border"
+    android:elevation="8dp"
+    android:layout_marginTop="5px"
+    android:layout_marginLeft="5px"
+    android:layout_marginRight="5px">
+    <TextView
+        android:id="@+id/NameFurni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+
+        android:singleLine="true"
+
+        android:text="TextView"
+        android:textSize="22sp"
+        app:layout_constraintStart_toEndOf="@+id/imgFurni"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="8dp" />
+
+    <ImageView
+        android:id="@+id/imgFurni"
+        android:layout_width="110dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/hinh_1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/DescripFurni"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:minLines="1"
+        android:layout_marginRight="50dp"
+        android:text="TextView"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imgFurni"
+        app:layout_constraintStart_toStartOf="@+id/NameFurni"
+        app:layout_constraintTop_toBottomOf="@+id/NameFurni" />
+
+    <TextView
+        android:id="@+id/GiaTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:textColor="@color/red_200"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="10dp"
+        android:singleLine="true"
+        android:text="TextView"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imgFurni" />
+    <Button
+        android:id="@+id/buttonFavories"
+        android:padding="1dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/ic_baseline_favorite_border_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginRight="1dp"
+        android:focusable="false"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
